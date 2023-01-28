@@ -4,7 +4,7 @@ I enjoy learning artificial intelligence to tackle problems that we encountered 
 
 
 - 🔭 I’m currently working on this page. 
-- 📫 How to reach me: mhlamag@connect.ust.hk 
+- 📫 How to reach me: lam.mh.thomas@gmail.com
 
 
 
